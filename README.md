@@ -8,6 +8,7 @@ Go to _c:\Users\{{USERNAME}}\AppData\Roaming\Adobe\Dreamweaver CS6\en_US\Configu
 1) Fixed (S)FTP binary problems
 2) Cool Dark Theme
 3) Support for the LESS, SASS, BASH, INI scripts
+4) Smart workspace
 
 ...and many more.
 

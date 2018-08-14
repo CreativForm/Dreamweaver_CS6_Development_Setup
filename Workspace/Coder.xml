@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<panelset>
+
+  <application colorIcon="true" docView="code" maximize="true" rect="784 250 1864 1050"/>
+
+  <document maximize="true" rect="46 46 646 564"/>
+
+  <panelframe dock="floating" height="0" monitor="1" width="0" x="left" y="top">
+    <panelcontainer expanded="true" height="400" visible="false">
+      <panel height="400" id="jQuerySwatchContainer" unconstrainedheight="400" unconstrainedwidth="280" visibleTab="false" width="280"/>
+    </panelcontainer>
+  </panelframe>
+
+  <panelframe dock="right" height="1008" iconmodewidth="112" width="546" x="1" y="12">
+    <panelcontainer expanded="true" height="300" visible="false">
+      <panel category="" height="300" id="objects" showLabel="true" unconstrainedheight="300" unconstrainedwidth="208" viewStyle="tabs" width="208"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="180" visible="false">
+      <panel height="180" id="css styles" unconstrainedheight="300" unconstrainedwidth="208" width="543"/>
+      <panel height="180" id="apElements" unconstrainedheight="300" unconstrainedwidth="208" width="543"/>
+      <panel height="180" id="tag inspector" unconstrainedheight="300" unconstrainedwidth="208" visibleTab="false" width="543"/>
+      <panel height="180" id="html" unconstrainedheight="300" unconstrainedwidth="208" width="543"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="270" visible="false">
+      <panel height="270" id="database" unconstrainedheight="270" unconstrainedwidth="208" width="543"/>
+      <panel height="270" id="data sources" unconstrainedheight="270" unconstrainedwidth="208" width="543"/>
+      <panel height="270" id="server scripts" unconstrainedheight="270" unconstrainedwidth="208" width="543"/>
+      <panel height="270" id="server components" unconstrainedheight="270" unconstrainedwidth="208" visibleTab="false" width="543"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="988" visible="true">
+      <panel height="988" id="site" unconstrainedheight="300" unconstrainedwidth="232" width="544"/>
+      <panel height="988" id="assets" unconstrainedheight="300" unconstrainedwidth="232" width="544"/>
+      <panel height="988" id="snippets" unconstrainedheight="300" unconstrainedwidth="232" width="544"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="180" visible="false">
+      <panel height="180" id="frames" unconstrainedheight="0" unconstrainedwidth="0" width="208"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="180" visible="false">
+      <panel height="180" id="history" unconstrainedheight="0" unconstrainedwidth="0" width="208"/>
+    </panelcontainer>
+  </panelframe>
+
+  <panelframe dock="right" height="427" width="200" x="0" y="0">
+    <panelcontainer expanded="true" height="370" visible="false">
+      <panel height="370" id="BCModulePanel" unconstrainedheight="370" unconstrainedwidth="232" visibleTab="false" width="232"/>
+    </panelcontainer>
+  </panelframe>
+
+  <panelframe dock="bottom" height="357" width="1373" x="0" y="1">
+    <panelcontainer expanded="true" height="107" visible="false">
+      <panel height="107" id="propertiesMfc" unconstrainedheight="107" unconstrainedwidth="990" width="1372"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="52" visible="false">
+      <panel height="52" id="properties" unconstrainedheight="52" unconstrainedwidth="820" width="990"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="337" visible="true">
+      <panel height="337" id="search" unconstrainedheight="180" unconstrainedwidth="990" width="1371"/>
+      <panel height="337" id="reference" unconstrainedheight="180" unconstrainedwidth="990" width="1371"/>
+      <panel height="337" id="validation" unconstrainedheight="180" unconstrainedwidth="990" width="1371"/>
+      <panel height="337" id="btc" unconstrainedheight="180" unconstrainedwidth="990" width="1371"/>
+      <panel height="337" id="linkchecker" unconstrainedheight="180" unconstrainedwidth="990" width="1371"/>
+      <panel height="337" id="reports" unconstrainedheight="180" unconstrainedwidth="990" width="1371"/>
+      <panel height="337" id="ftp log" unconstrainedheight="180" unconstrainedwidth="990" width="1371"/>
+      <panel height="337" id="server debug" unconstrainedheight="180" unconstrainedwidth="990" width="1371"/>
+    </panelcontainer>
+  </panelframe>
+
+</panelset>
