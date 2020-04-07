@@ -220,6 +220,26 @@
 		<syntaxColor id="CodeColor_CSSString" text="#E4E6CD" />
 		<syntaxColor id="CodeColor_CSSValue" text="#E4E6CD" />
 	</colorGroup>
+	<colorGroup doctypes="SCSS">
+		<syntaxColor id="CodeColor_CSSImport" text="#9ABA9B" bold="true" />
+		<syntaxColor id="CodeColor_CSSMedia" text="#E6E6E6" bold="true" />
+		<syntaxColor id="CodeColor_CSSComment" text="#F0B6F4" italic="true" />
+		<syntaxColor id="CodeColor_CssKeywordImportant" text="#D77D7D" bold="true" />
+		<syntaxColor id="CodeColor_CSSProperty" text="#70B8CE" />
+		<syntaxColor id="CodeColor_CSSSelector" text="#E6E6E6" />
+		<syntaxColor id="CodeColor_CSSString" text="#E4E6CD" />
+		<syntaxColor id="CodeColor_CSSValue" text="#E4E6CD" />
+	</colorGroup>
+	<colorGroup doctypes="LESS">
+		<syntaxColor id="CodeColor_CSSImport" text="#9ABA9B" bold="true" />
+		<syntaxColor id="CodeColor_CSSMedia" text="#E6E6E6" bold="true" />
+		<syntaxColor id="CodeColor_CSSComment" text="#F0B6F4" italic="true" />
+		<syntaxColor id="CodeColor_CssKeywordImportant" text="#D77D7D" bold="true" />
+		<syntaxColor id="CodeColor_CSSProperty" text="#70B8CE" />
+		<syntaxColor id="CodeColor_CSSSelector" text="#E6E6E6" />
+		<syntaxColor id="CodeColor_CSSString" text="#E4E6CD" />
+		<syntaxColor id="CodeColor_CSSValue" text="#E4E6CD" />
+	</colorGroup>
 	<colorGroup doctypes="XML">
 		<tagColor id="CodeColor_CFScriptTag" text="#936" />
 		<tagColor id="CodeColor_HTMLAnchor" text="#E4E6CD" underline="false" />

@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <panelset>
 
-  <application colorIcon="true" docView="design" maximize="true" rect="0 250 1080 1050"/>
+  <application colorIcon="true" maximize="true" rect="703 235 1343 760"/>
 
-  <document maximize="true" rect="92 92 692 610"/>
+  <document maximize="true" rect="46 46 646 502"/>
 
-  <panelframe dock="floating" height="441" width="282" x="820" y="325">
+  <panelframe dock="floating" height="0" monitor="1" width="0" x="left" y="top">
     <panelcontainer expanded="true" height="400" visible="false">
       <panel height="400" id="jQuerySwatchContainer" unconstrainedheight="400" unconstrainedwidth="280" width="280"/>
     </panelcontainer>
   </panelframe>
 
-  <panelframe dock="floating" height="341" width="210" x="856" y="375">
+  <panelframe dock="floating" height="0" monitor="1" width="0" x="left" y="top">
     <panelcontainer expanded="true" height="300" visible="false">
       <panel height="300" id="ant" unconstrainedheight="300" unconstrainedwidth="208" width="208"/>
     </panelcontainer>
   </panelframe>
 
-  <panelframe dock="right" height="958" width="545" x="1" y="12">
+  <panelframe dock="right" height="1008" iconmodewidth="200" width="500" x="1" y="12">
     <panelcontainer expanded="false" height="115" visible="true">
       <panel height="115" id="BL" unconstrainedheight="0" unconstrainedwidth="0" width="208"/>
     </panelcontainer>
-    <panelcontainer expanded="true" height="438" visible="true">
-      <panel height="438" id="css styles" unconstrainedheight="300" unconstrainedwidth="208" width="543"/>
-      <panel height="438" id="apElements" unconstrainedheight="300" unconstrainedwidth="208" width="543"/>
-      <panel height="438" id="tag inspector" unconstrainedheight="300" unconstrainedwidth="208" visibleTab="false" width="543"/>
+    <panelcontainer expanded="true" height="459" visible="false">
+      <panel height="459" id="apElements" unconstrainedheight="300" unconstrainedwidth="208" visibleTab="false" width="543"/>
+      <panel height="459" id="tag inspector" unconstrainedheight="300" unconstrainedwidth="208" visibleTab="false" width="543"/>
     </panelcontainer>
     <panelcontainer expanded="true" height="270" visible="false">
       <panel height="270" id="database" unconstrainedheight="270" unconstrainedwidth="208" width="543"/>
@@ -32,10 +31,13 @@
       <panel height="270" id="server scripts" unconstrainedheight="270" unconstrainedwidth="208" width="543"/>
       <panel height="270" id="server components" unconstrainedheight="270" unconstrainedwidth="208" visibleTab="false" width="543"/>
     </panelcontainer>
-    <panelcontainer expanded="true" height="479" visible="true">
-      <panel height="479" id="site" unconstrainedheight="300" unconstrainedwidth="232" width="543"/>
-      <panel height="479" id="assets" unconstrainedheight="300" unconstrainedwidth="232" width="543"/>
-      <panel height="479" id="snippets" unconstrainedheight="300" unconstrainedwidth="232" width="543"/>
+    <panelcontainer expanded="true" height="967" visible="true">
+      <panel height="967" id="site" unconstrainedheight="300" unconstrainedwidth="232" width="498"/>
+      <panel height="967" id="assets" unconstrainedheight="300" unconstrainedwidth="232" visibleTab="false" width="498"/>
+      <panel height="967" id="snippets" unconstrainedheight="300" unconstrainedwidth="232" width="498"/>
+      <panel height="967" id="css styles" unconstrainedheight="300" unconstrainedwidth="232" visibleTab="false" width="498"/>
+      <panel category="" height="967" id="objects" showLabel="true" unconstrainedheight="300" unconstrainedwidth="232" viewStyle="tabs" width="498"/>
+      <panel height="967" id="propertiesMfc" unconstrainedheight="300" unconstrainedwidth="232" width="498"/>
     </panelcontainer>
     <panelcontainer expanded="true" height="180" visible="false">
       <panel height="180" id="frames" unconstrainedheight="0" unconstrainedwidth="0" width="208"/>
@@ -45,28 +47,19 @@
     </panelcontainer>
   </panelframe>
 
-  <panelframe content="controlbars" dock="top">
-    <panelcontainer expanded="true" height="47" visible="true">
-      <panel category="" height="47" id="objects" showLabel="false" unconstrainedheight="0" unconstrainedwidth="0" viewStyle="tabs" width="1904"/>
-    </panelcontainer>
-  </panelframe>
-
-  <panelframe dock="bottom" height="127" width="1374" x="0" y="1">
-    <panelcontainer expanded="true" height="107" visible="true">
-      <panel height="107" id="propertiesMfc" unconstrainedheight="107" unconstrainedwidth="990" width="1372"/>
-    </panelcontainer>
+  <panelframe dock="bottom" height="20" width="1419" x="0" y="1">
     <panelcontainer expanded="true" height="52" visible="false">
-      <panel height="52" id="properties" unconstrainedheight="52" unconstrainedwidth="820" width="990"/>
+      <panel height="52" id="properties" unconstrainedheight="52" unconstrainedwidth="820" width="820"/>
     </panelcontainer>
-    <panelcontainer expanded="true" height="337" visible="false">
-      <panel height="337" id="search" unconstrainedheight="180" unconstrainedwidth="990" width="1483"/>
-      <panel height="337" id="reference" unconstrainedheight="180" unconstrainedwidth="990" width="1483"/>
-      <panel height="337" id="validation" unconstrainedheight="180" unconstrainedwidth="990" width="1483"/>
-      <panel height="337" id="btc" unconstrainedheight="180" unconstrainedwidth="990" width="1483"/>
-      <panel height="337" id="linkchecker" unconstrainedheight="180" unconstrainedwidth="990" width="1483"/>
-      <panel height="337" id="reports" unconstrainedheight="180" unconstrainedwidth="990" width="1483"/>
-      <panel height="337" id="ftp log" unconstrainedheight="180" unconstrainedwidth="990" width="1483"/>
-      <panel height="337" id="server debug" unconstrainedheight="180" unconstrainedwidth="990" width="1483"/>
+    <panelcontainer expanded="false" height="446" visible="true">
+      <panel height="446" id="search" unconstrainedheight="180" unconstrainedwidth="990" width="1417"/>
+      <panel height="446" id="reference" unconstrainedheight="180" unconstrainedwidth="990" width="1417"/>
+      <panel height="446" id="validation" unconstrainedheight="180" unconstrainedwidth="990" width="1417"/>
+      <panel height="446" id="btc" unconstrainedheight="180" unconstrainedwidth="990" width="1417"/>
+      <panel height="446" id="linkchecker" unconstrainedheight="180" unconstrainedwidth="990" width="1417"/>
+      <panel height="446" id="reports" unconstrainedheight="180" unconstrainedwidth="990" width="1417"/>
+      <panel height="446" id="ftp log" unconstrainedheight="180" unconstrainedwidth="990" width="1417"/>
+      <panel height="446" id="server debug" unconstrainedheight="180" unconstrainedwidth="990" width="1417"/>
     </panelcontainer>
   </panelframe>
 

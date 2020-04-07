@@ -72,7 +72,7 @@
 		</description>
 		<dtdcontext>html</dtdcontext>
 	</documenttype>
-	<documenttype id="PHP_MySQL" servermodel="PHP MySQL" internaltype="Dynamic" winfileextension="php,php3,php4,php5,phtml" macfileextension="php,php3,php4,php5,phtml" file="Default.php" writebyteordermark="false" mimetype="text/html">
+	<documenttype id="PHP_MySQL" servermodel="PHP MySQL" internaltype="Dynamic" winfileextension="php,php3,php4,php5,phtml,ps1" macfileextension="php,php3,php4,php5,phtml,ps1" file="Default.php" writebyteordermark="false" mimetype="text/html">
 		<TITLE>
 			<MMString:loadString id="mmdocumenttypes_14" />
 		</TITLE>
